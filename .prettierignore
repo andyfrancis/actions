@@ -1,0 +1,13 @@
+dist/
+lib/
+CHANGELOG.md
+templates/
+examples/
+
+# Ignore artifacts:
+build
+coverage
+
+# Yarn
+.pnp.*
+.yarn/*
